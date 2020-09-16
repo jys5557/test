@@ -10,8 +10,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container panel panel-info">
-		<h3 class="panel-heading">ver - 1</h3>
+	<div class="container panel panel-danger">
+		<h3 class="panel-heading">ver - 2</h3>
 	</div>
 </body>
 </html>
